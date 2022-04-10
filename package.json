@@ -1,0 +1,27 @@
+{
+  "name": "shrinkitt",
+  "version": "1.0.0",
+  "description": "A simple & Light Link Shortener.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start shrinkitt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishithD/ShrinkItt.git"
+  },
+  "keywords": [
+    "link",
+    "shortener",
+    "compress",
+    "shrink",
+    "website",
+    "url"
+  ],
+  "author": "NishithD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishithD/ShrinkItt/issues"
+  },
+  "homepage": "https://github.com/NishithD/ShrinkItt#readme"
+}
